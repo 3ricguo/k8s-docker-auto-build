@@ -1,0 +1,1 @@
+FROM quay.io/coreos/hyperkube:1.9.3_coreos.0
